@@ -1,6 +1,6 @@
 # ICS_SCADA
 
-# ICS/SCADA Certification - Comprehensive Study Notes
+# ICS/SCADA - Comprehensive Study Notes
 
 ## IEC 62443 Security Levels
 - **IEC 62443** is an international standard series for securing Industrial Automation and Control Systems (IACS).
